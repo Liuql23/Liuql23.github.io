@@ -33,6 +33,12 @@ Qingdao University of Science and Technology, School of Mathematics and Physics,
 Qingdao University of Science and Technology, School of Mathematics and Physics, Mathematics and Applied Mathematics, B.S.
 
 # 📝 Publications 
+- [DDCM: Cracking Anonymized Facial Images Using Denoising Diffusion Cryptanalytic Model](https://doi.org/10.1109/TCE.2025.3534859),  
+ Donghua Jiang, Jiangqun Ni<sup>*</sup>, Nada Alasbali, Ibtehal Nafea, **Qingliang Liu**, Jawad Ahmad, Wadii Boulila. **IEEE Transactions on Consumer Electronics, 2025:1-1**.
+
+- [Model-Based Non-Independent Distortion Cost Design for Effective JPEG Steganography](https://doi.org/10.1145/3664647.3681681),  
+ Yuanfeng Pan, Wenkang Su, Jiangqun Ni<sup>*</sup>,  **Qingliang Liu**, Yulin Zhang, Donghua Jiang. **ACM MM, 2024:2419-2427**.
+  
 - [Efficient JPEG image steganography using pairwise conditional random field model](https://doi.org/10.1016/j.sigpro.2024.109493),  
 Yuanfeng Pan, Jiangqun Ni<sup>*</sup>, **Qingliang Liu**, Wenkang Su, Jiwu Huang. **Signal Processing, 2024:109493**.
 
