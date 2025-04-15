@@ -32,6 +32,9 @@ Qingdao University of Science and Technology, School of Mathematics and Physics,
 - *September 2011 - July 2015*,   
 Qingdao University of Science and Technology, School of Mathematics and Physics, Mathematics and Applied Mathematics, B.S.
 
+# 📝 Projects 
+-Natural Science Foundation of Shandong Province (Youth Program), 2025.01-2027.12, 12W.
+
 # 📝 Publications 
 - [DDCM: Cracking Anonymized Facial Images Using Denoising Diffusion Cryptanalytic Model](https://doi.org/10.1109/TCE.2025.3534859),  
  Donghua Jiang, Jiangqun Ni<sup>*</sup>, Nada Alasbali, Ibtehal Nafea, **Qingliang Liu**, Jawad Ahmad, Wadii Boulila. **IEEE Transactions on Consumer Electronics, 2025:1-1**.
