@@ -69,6 +69,6 @@ Yuanfeng Pan, Jiangqun Ni<sup>*</sup>, **Qingliang Liu**, Wenkang Su, Jiwu Huang
 
 
 # 💬 Professional Service
-- *Reviewer of Conference*: ACM MM 2023/2024
+- *Reviewer of Conference*: ACM MM 2023/2024/2025
 - *Reviewer of Journal*: Knowledge-Based Systems, Signal Image and Video Processing, Journal of Engineering and Applied Science
 
