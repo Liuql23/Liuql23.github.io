@@ -33,7 +33,7 @@ Qingdao University of Science and Technology, School of Mathematics and Physics,
 Qingdao University of Science and Technology, School of Mathematics and Physics, Mathematics and Applied Mathematics, B.S.
 
 # 📝 Projects 
-- Natural Science Foundation of Shandong Province (Youth Program), 2025.01-2027.12, 12W.
+- Natural Science Foundation of Shandong Province (Youth Program), 2025.01-2027.12.
 
 # 📝 Publications 
 - [Enhancing Steganographic Security via Controversial-Pixel Grading in Multi-Distortion Function Fusion](https://doi.org/10.1186/s13635-026-00233-x),  
