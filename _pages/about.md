@@ -36,39 +36,42 @@ Qingdao University of Science and Technology, School of Mathematics and Physics,
 - Natural Science Foundation of Shandong Province (Youth Program), 2025.01-2027.12, 12W.
 
 # 📝 Publications 
+- [Enhancing Steganographic Security via Controversial-Pixel Grading in Multi-Distortion Function Fusion](https://doi.org/10.1186/s13635-026-00233-x),  
+  X. Li, Q. Liu, D. Jiang, et al.  **J. Inf. Secur. 2026:1-12**.
+
 - [DDCM: Cracking Anonymized Facial Images Using Denoising Diffusion Cryptanalytic Model](https://doi.org/10.1109/TCE.2025.3534859),  
- Donghua Jiang, Jiangqun Ni<sup>*</sup>, Nada Alasbali, Ibtehal Nafea, **Qingliang Liu**, Jawad Ahmad, Wadii Boulila. **IEEE Transactions on Consumer Electronics, 2025:1-1**.
+ D. Jiang, J. Ni<sup>*</sup>, N. Alasbali, I. Nafea, **Q. Liu**, et al. **IEEE Transactions on Consumer Electronics, 2025, 71(2):4464-4474**.
 
 - [Model-Based Non-Independent Distortion Cost Design for Effective JPEG Steganography](https://doi.org/10.1145/3664647.3681681),  
- Yuanfeng Pan, Wenkang Su, Jiangqun Ni<sup>*</sup>,  **Qingliang Liu**, Yulin Zhang, Donghua Jiang. **ACM MM, 2024:2419-2427**.
+ Y. Pan, W. Su, J. Ni<sup>*</sup>,  **Q. Liu**, et al. **ACM MM, 2024:2419-2427**.
   
 - [Efficient JPEG image steganography using pairwise conditional random field model](https://doi.org/10.1016/j.sigpro.2024.109493),  
-Yuanfeng Pan, Jiangqun Ni<sup>*</sup>, **Qingliang Liu**, Wenkang Su, Jiwu Huang. **Signal Processing, 2024:109493**.
+Y. Pan, J. Ni<sup>*</sup>, **Q. Liu**, et al. **Signal Processing, 2024:109493**.
 
 - [An Efficient Distortion Cost Function Design for Image Steganography in Spatial Domain Using Quaternion Representation](https://doi.org/10.1016/j.sigpro.2023.109370),  
- **Qingliang Liu**, Wenkang Su, Jiangqun Ni<sup>*</sup>, Xianglei Hu, Jiwu Huang. **Signal Processing, 2024(219):109370**.
+ **Q. Liu**, W. Su, J. Ni<sup>*</sup>, X. Hu, J. Huang. **Signal Processing, 2024(219):109370**.
 
 - [Robust Image Steganography against General Scaling Attacks](https://doi.org/10.1145/3581783.3612267),  
- **Qingliang Liu**, Jiangqun Ni<sup>*</sup>, Xianglei Hu. **ACM MM, 2023:8233-8241**.
+ **Q. Liu**, J. Ni<sup>*</sup>, X. Hu. **ACM MM, 2023:8233-8241**.
 
 - [An Efficient Video Watermark Method using Blockchain](https://www.sciencedirect.com/science/article/abs/pii/S0950705122011595),  
- **Qingliang Liu**, Shuguo Yang, Jing Liu, Pengcheng Xiong, Jun Shen<sup>*</sup>. **Knowledge-Based Systems, 2023(259): 110066**.
+ **Q. Liu**, S. Yang, J. Liu, P. Xiong, J. Shen<sup>*</sup>. **Knowledge-Based Systems, 2023(259): 110066**.
 
 - [Effective JPEG Steganalysis using Non-linear Pre-processing and Residual Channel-spatial Attention](https://ieeexplore.ieee.org/abstract/document/9859742),  
- **Qingliang Liu**, Jiangqun Ni<sup>*</sup>, Mengxin Jian. **ICME, 2022**.
+ **Q. Liu**, J. Ni<sup>*</sup>, Mengxin Jian. **ICME, 2022**.
 
 - [The Fundus Structural and Functional Predictions of DME Patients After Anti-VEGF Treatments](https://www.frontiersin.org/articles/10.3389/fendo.2022.865211/full),  
- Hang Xie<sup>+</sup>, Shihao Huang<sup>+</sup>, **Qingliang Liu<sup>+</sup>(<sup>+</sup>joint first author)**, Yifan Xiang, Fabao Xu, Xiaoyan Li, Chun-Hung Chiu<sup>*</sup>. **Frontiers in Endocrinology 2022(13): 865211**.
+ H. Xie<sup>+</sup>, S. Huang<sup>+</sup>, **Q. Liu<sup>+</sup>(<sup>+</sup>joint first author)**, et al. **Frontiers in Endocrinology 2022(13): 865211**.
 
 - [A Discrete Wavelet Transform and Singular Value Decomposition-based Digital Video Watermark Method](https://www.sciencedirect.com/science/article/abs/pii/S0307904X20302080),  
- **Qingliang Liu**, Shuguo Yang, Jing Liu, Pengcheng Xiong, Mengchu Zhou<sup>*</sup>. **Applied Mathematical Modelling, 2020(85): 273-293**.
+ **Q. Liu**, S. Yang, J. Liu, P. Xiong, M. Zhou<sup>*</sup>. **Applied Mathematical Modelling, 2020(85): 273-293**.
 
 # 📝 PrePrints
 - [A Robust Image Steganographic Scheme against General Scaling Attacks](https://arxiv.org/pdf/2212.02822.pdf),  
- **Qingliang Liu**, Jiangqun Ni*, Weizhe Zhang, Xiangyang Luo, Jiwu Huang.
+ **Q. Liu**, J. Ni*, Weizhe Zhang, Xiangyang Luo, Jiwu Huang.
 
 
 # 💬 Professional Service
-- *Reviewer of Conference*: ACM MM 2023/2024/2025
-- *Reviewer of Journal*: Knowledge-Based Systems, Signal Image and Video Processing, Journal of Engineering and Applied Science
+- *Reviewer of Conference*: ACM MM
+- *Reviewer of Journal*: Knowledge-Based Systems, Signal Processing, Signal Image and Video Processing, Journal of Engineering and Applied Science
 
