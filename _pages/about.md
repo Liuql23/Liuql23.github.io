@@ -37,7 +37,7 @@ Qingdao University of Science and Technology, School of Mathematics and Physics,
 
 # 📝 Publications 
 - [Enhancing Steganographic Security via Controversial-Pixel Grading in Multi-Distortion Function Fusion](https://doi.org/10.1186/s13635-026-00233-x),  
-  X. Li, Q. Liu, D. Jiang, et al.  **J. Inf. Secur. 2026:1-12**.
+  X. Li, **Q. Liu**, D. Jiang, et al.  **J. Inf. Secur. 2026:1-12**.
 
 - [DDCM: Cracking Anonymized Facial Images Using Denoising Diffusion Cryptanalytic Model](https://doi.org/10.1109/TCE.2025.3534859),  
  D. Jiang, J. Ni<sup>*</sup>, N. Alasbali, I. Nafea, **Q. Liu**, et al. **IEEE Transactions on Consumer Electronics, 2025, 71(2):4464-4474**.
